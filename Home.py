@@ -1,5 +1,5 @@
 import streamlit as st
-from backend.megatable import Megatable,
+from backend.megatable import Megatable
 obj=Megatable()
 
 def main():
